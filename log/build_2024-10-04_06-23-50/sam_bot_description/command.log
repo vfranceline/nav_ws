@@ -1,0 +1,6 @@
+Invoking command in '/home/vfran/nav_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/vfran/nav_ws/src/sam_bot_description -DCMAKE_INSTALL_PREFIX=/home/vfran/nav_ws/install/sam_bot_description
+Invoked command in '/home/vfran/nav_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/vfran/nav_ws/src/sam_bot_description -DCMAKE_INSTALL_PREFIX=/home/vfran/nav_ws/install/sam_bot_description
+Invoking command in '/home/vfran/nav_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/vfran/nav_ws/build/sam_bot_description -- -j16 -l16
+Invoked command in '/home/vfran/nav_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/vfran/nav_ws/build/sam_bot_description -- -j16 -l16
+Invoking command in '/home/vfran/nav_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/vfran/nav_ws/build/sam_bot_description
+Invoked command in '/home/vfran/nav_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/vfran/nav_ws/build/sam_bot_description
