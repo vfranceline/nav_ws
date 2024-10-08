@@ -44,7 +44,7 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/sam_bot_description" TYPE DIRECTORY FILES
-    "/home/vfran/nav_ws/src/sam_bot_description/src"
+    "/home/vfran/nav_ws/src/sam_bot_description/description"
     "/home/vfran/nav_ws/src/sam_bot_description/launch"
     "/home/vfran/nav_ws/src/sam_bot_description/rviz"
     "/home/vfran/nav_ws/src/sam_bot_description/config"

@@ -1,7 +1,8 @@
-/home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/src/description/sam_bot_description.urdf
+/home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/description/sam_bot_description.urdf
 /home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py
+/home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/launch/launch_sim.launch.py
 /home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config.rviz
-/home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/config/nav2_params.yaml
+/home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/config/mapper_params_online_async.yaml
 /home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/config/ekf.yaml
 /home/vfran/nav_ws/install/sam_bot_description/share/sam_bot_description/world/my_world.sdf
 /home/vfran/nav_ws/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description
